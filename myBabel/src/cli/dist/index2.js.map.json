@@ -1,0 +1,1 @@
+{"version":3,"sources":["index2.js"],"names":[],"mappings":"AAAA;AAAqB,IACjB,AAAO,AAAI;;;AAGf,AAAM,AAAG","file":"index2.js.map.json","sourcesContent":["function minus(a, b) {\n    return a - b;\n}\n\nminus(3, 4);"]}

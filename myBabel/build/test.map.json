@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":[],"mappings":"AAAA;;;;AAIA;AAAe;;IAGb,AAAO;;;AAGT","file":"test.js.map.json","sourcesContent":["const c = 1;\nconst d = 2;\nconst e = 4;\nconst f = 0;\nfunction add() {\n  const tmp = 1;\n  const a = tmp + 1;\n  return 1;\n}\n\nadd();\n"]}

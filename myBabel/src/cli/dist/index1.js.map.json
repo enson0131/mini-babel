@@ -1,0 +1,1 @@
+{"version":3,"sources":["index1.js"],"names":[],"mappings":"AAAA,CAAM,CAAI;AACV,CAAM,CAAI;;AAGV;AAAoB;IAEhB,AAAO,AAAI;;;AAGf,AAAI,AAAG","file":"index1.js.map.json","sourcesContent":["const c = 1;\nconst d = 2;\nconst e = 4;\n\nfunction add (a, b) {\n    const temp = 1;\n    return a + b;\n}\n\nadd(c, d);"]}

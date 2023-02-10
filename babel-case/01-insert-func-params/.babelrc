@@ -1,0 +1,7 @@
+{
+    // preset 是从后往前执行, plugins 是从前往后执行。
+    "presets": ["@babel/preset-react"],
+    "plugins": [
+        "./plugin/index.js"
+    ]
+}
