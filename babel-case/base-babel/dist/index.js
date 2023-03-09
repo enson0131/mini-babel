@@ -1,8 +1,9 @@
 "use strict";
 
-var a = 1;
-var b = 2;
-var c = function c() {
-  var d = 3;
-  return d;
-};
+var _pick2 = _interopRequireDefault(require("lodash/pick"));
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
+var d = (0, _pick2["default"])({
+  a: 1,
+  b: 2
+}, 'a');
+console.log("d===>", d);

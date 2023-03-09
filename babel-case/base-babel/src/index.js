@@ -1,6 +1,3 @@
-const a = 1;
-const b = 2;
-const c = () => {
-  let d = 3;
-  return d;
-};
+import { pick } from 'lodash';
+const d = pick({a: 1, b: 2}, 'a');
+console.log(`d===>`, d);
